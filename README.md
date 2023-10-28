@@ -1,5 +1,3 @@
-# explainableAI
-
 ## Coursera project: https://coursera.org/share/08e48391763f1379778689ed1992a2d8
 
 ## Classification of scene images using CNN and interpreting the results using Gradient-Weighted Class Activation Mapping(Grad-CAM)
